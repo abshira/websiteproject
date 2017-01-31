@@ -1,0 +1,94 @@
+
+.box_2 {
+	width: 1360px;
+	height: 720px;
+	background-color: #cc99ff;
+	margin: 0 auto; 
+
+
+}
+
+#Top_nav ul{
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0px;
+	height: 120px;
+	width: 1400px;
+}
+
+#Top_nav li {
+	display: inline;
+	padding: 20px;
+	float: right;
+
+}
+
+#Profile {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#Picture_profile, #right_column {
+	margin-top: 120px;
+	float: left;
+}
+
+#Profile_picture {
+	width: 480px;
+	height: 480px;
+	
+}
+
+#right_column {
+	width: 480px;
+	background-color: white;
+	text-align: center;
+	height: 480px;
+}
+
+#right_column ul{
+	background-color: yellow;
+	text-decoration: none;
+
+}
+
+#right_column h1{
+	background-color: blue;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.box{
+	height: 120px;
+	width: 480px;
+	background-color: #bf80ff;
+}
+
+#right_column h2{
+	background-color: green;
+	padding: 0px;
+	margin: 0px;
+
+}
+body {
+	background-color: #bf80ff;
+
+}
+
+.clear {
+	clear: both;
+}
+
+
+#Experience, #Education, #Contact {
+	width: 960px;
+	background-color: white;
+	margin: 0 auto;
+
+}
+
+#Education h2, #Experience h2, #Contact h2{
+	text-align: center;
+
+}
